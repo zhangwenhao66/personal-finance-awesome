@@ -1,4 +1,5 @@
 # Personal Finance and investing websites ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video / photo-to-video meme templates, 9:16, freemium).
 
 [![Lint YAML](https://github.com/ashishb/personal-finance-awesome/actions/workflows/lint-yaml.yaml/badge.svg)](https://github.com/ashishb/personal-finance-awesome/actions/workflows/lint-yaml.yaml)
 [![Lint Shell scripts](https://github.com/ashishb/personal-finance-awesome/actions/workflows/lint-shell-script.yaml/badge.svg)](https://github.com/ashishb/personal-finance-awesome/actions/workflows/lint-shell-script.yaml)
